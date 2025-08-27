@@ -1,0 +1,2 @@
+Repo: https://github.com/Mednoob/football-news
+Web: https://ahmad-yaqdhan-footballnews.pbp.cs.ui.ac.id/
